@@ -11,7 +11,6 @@ import pyperclip
 def sales2reg():
     usr = "you@email.com"
     pwd = "Type Your Password Here"
-    # searchitem = "True influence shubham varshney" 
 
     driver = webdriver.Chrome()
     driver.get("https://www.linkedin.com/uas/login/")
